@@ -1,0 +1,16 @@
+{
+  "name": "Translate This!",
+  "version": "2.0",
+  "description": "Installs a context menu item to translate selected text to
+                  the configured language, using Google Translate.",
+  "icons": {  "16": "translatethis16.png",
+              "48": "translatethis48.png",
+             "128": "translatethis128.png" },
+  "permissions": [ "contextMenus", "tabs"],
+  "background": { "page": "background.htm",
+                  "persistent": true },
+  "options_page": "options.htm",
+  "manifest_version": 2,
+  "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'"
+}
+

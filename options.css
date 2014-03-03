@@ -1,0 +1,39 @@
+/*
+ * options.css
+ * Translate This! Google Chrome extension
+ * Options page style sheet
+ *
+ * Created by Jayanth Chennamangalam
+ */
+
+body
+{
+    font-family: "Open Sans", sans-serif;
+    font-size: 10pt;
+    color: #000000;
+    background-color: #FFFFFF;
+    text-align: center;
+}
+
+div
+{
+    width: 500px;
+    margin: auto;
+}
+div.title
+{
+    font-family: "Aubrey", sans-serif;
+    font-weight: bold;
+    font-size: 24pt;
+    letter-spacing: 1pt;
+}
+div.main
+{
+}
+div.status
+{
+    color: #FF0000;
+    font-weight: bold;
+    text-align: center;
+}
+

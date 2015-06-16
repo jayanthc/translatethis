@@ -1,6 +1,6 @@
 {
   "name": "Translate This!",
-  "version": "2.0",
+  "version": "2.1",
   "description": "Installs a context menu item to translate selected text to
                   the configured language, using Google Translate.",
   "icons": {  "16": "translatethis16.png",
